@@ -5,6 +5,7 @@ setwd("")
 library(xlsx)
 library(lubridate)
 library(dplyr)
+
 #Import datasets
 capacitylogs <- read.xlsx("172.31.4.99_jsoncapacity.log.xlsx" , sheetIndex = 1)
 impressionlogs <- read.xlsx("172.31.4.99_jsonimpr.log.xlsx", sheetIndex = 1)
