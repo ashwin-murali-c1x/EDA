@@ -1,5 +1,5 @@
 # EDA
-Exploratory Data Analysis on Capacity logs, Impression logs, Click logs, Pixel logs
+Exploratory Data Analysis on Capacity logs, Impression logs, Click logs, Pixel logs (Data Source)
 
 EDA is a philosophy as to how we dissect a dataset, what we look for, how we look and how we interpret. EDA heavily uses the collection of techniques that we call statistical graphics. The objectives of EDA are to: 
   1. maximize insight into a data set
